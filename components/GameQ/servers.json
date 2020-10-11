@@ -1,0 +1,37 @@
+[
+  {
+    "type": "cod4",
+    "host": "localhost:28960",
+    "id"  : "cod4_28960"
+  },
+  {
+    "type": "cod4",
+    "host": "localhost:28961",
+    "id"  : "cod4_28961"
+  },
+  {
+    "type": "cod4",
+    "host": "localhost:28962",
+    "id"  : "cod4_28962"
+  },
+  {
+    "type": "minecraft",
+    "host": "localhost:25565",
+    "id"  : "minecraft_25565"
+  },
+  {
+    "type": "minecraft",
+    "host": "localhost:1337",
+    "id"  : "minecraft_1337"
+  },
+  {
+    "type": "cod4",
+    "host": "91.121.21.210:1337",
+    "id"  : "cod4_3xp_1337"
+  },
+  {
+    "type": "cod4",
+    "host": "91.121.21.210:1336",
+    "id"  : "cod4_3xp_1336"
+  }
+]

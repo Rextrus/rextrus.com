@@ -1,0 +1,13 @@
+<input id='searchEngine' type='text' placeholder='search..'><br>
+							<table  class='table sortable'>
+							  <thead>
+					            <tr>
+					                <th>#</th>
+					                <th>Player</th>
+									<th>Time</th>
+					                <th>RPG</th>
+					                <th>Loads</th>
+					                <th>Saves</th>
+					            </tr>
+							  </thead>
+							  <tbody id='runTable'>
